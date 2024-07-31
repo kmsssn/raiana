@@ -1,0 +1,66 @@
+header{
+   height: 300px;
+   background-color: rgb(151, 75, 167);
+   text-align: center;
+   color: rgb(0, 0, 0);
+   padding: 40px;
+   font-size: 50px;
+   background-image: url(https://cdn-img.perekrestok.ru/i/800x800-fit/xdelivery/files/7a/35/4b0b3603xdf8d4cd1e98462fa104.jpg);
+   background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    height: 100%;
+    background-color: rgb(49, 13, 56);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    font-size: 50px;
+    background-image: url(https://main-cdn.sbermegamarket.ru/big2/hlr-system/147/376/387/941/813/24/100031306001b4.jpg);
+    background-size: cover;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.459);
+    width: 80%;
+    padding: 20%;
+}
+
+.block1{
+  font-size: 20px;
+  text-align: justify;
+}
+
+.block2{
+text-align: center;
+}
+
+
+footer{
+background-color: rgb(201, 144, 255);
+text-align: center;
+color: black;
+padding: 40px;
+}
+
+.social img {
+width: 100px;
+padding-left: 10px;
+
+}
+.social{
+   list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+}
